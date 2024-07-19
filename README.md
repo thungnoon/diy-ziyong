@@ -15,7 +15,7 @@ serverchan：https://github.com/tty228/luci-app-serverchan
 
 passwall：https://github.com/Lienol/openwrt-package
 
-mypackages：https://github.com/siropboy/mypackages
+mypackages：https://github.com/sirpdboy/sirpdboy-package
 
 naiveproxy：https://github.com/project-openwrt/openwrt-naiveproxy
 
